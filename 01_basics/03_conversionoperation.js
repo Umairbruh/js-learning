@@ -85,6 +85,8 @@ console.log(typeof stringNumber);
 //meaning it 33 got converted to String
 */
 
+//operations
+
 /*
 console.log(true);
  console.log(+true);
