@@ -84,3 +84,22 @@ console.log(typeof stringNumber);
 // what you get is 33 and then its type is shown to be String
 //meaning it 33 got converted to String
 */
+
+/*
+console.log(true);
+ console.log(+true);
+ console.log(+"");
+ // output is :
+ // true
+ // 1
+ // 0
+ // possibly a short way to use boolean into number conversion
+*/
+
+/*
+let gameCounter = 10
+++gameCounter;
+gameCounter++;
+//prefix postfix concept
+console.log(gameCounter);
+*/
